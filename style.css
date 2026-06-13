@@ -1,0 +1,7 @@
+
+body{font-family:Arial;margin:0}
+.hero{height:60vh;background:url('images/couple.jpg') center/cover;display:flex;align-items:center;justify-content:center}
+.overlay{background:rgba(0,0,0,.45);color:#fff;padding:30px;border-radius:12px}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;padding:20px}
+.card{box-shadow:0 2px 10px rgba(0,0,0,.1);padding:20px;border-radius:12px}
+.card img{width:100%;max-height:350px;object-fit:cover;border-radius:12px}
